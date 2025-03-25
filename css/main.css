@@ -1,0 +1,79 @@
+* {
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+html {
+  max-width: 1200px;
+  height: 100vh;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+.header-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: aliceblue;
+  overflow: hidden;
+}
+.logo {
+  background-color: aquamarine;
+  margin: 0;
+  padding: 0;
+}
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  background-color: #80f321;
+  padding: 0%;
+  margin: 0%;
+}
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.main-nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+.search-bar {
+  overflow: hidden;
+  background-color: #b3a5a5;
+  position: relative;
+  width: 100%;
+  max-width: 400px; /* Adjust as needed */
+  margin: 0 auto;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 12px 20px;
+  padding-left: 40px; /* Space for the search icon */
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 17px; /* Rounded corners */
+  outline: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.search-bar input:focus {
+  border-color: #4a90e2; /* Highlight color when focused */
+  box-shadow: 0 2px 10px rgba(45, 77, 114, 0.2);
+}
+
+/* Optional: Add a search icon 
+.search-bar::before {
+  content: "🔍";  Or use a font-awesome icon 
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #999;
+}
+ */
