@@ -5,6 +5,7 @@
 }
 body {
   position: relative;
+  height: 100vh;
 }
 /* global css */
 .obj-width {
@@ -65,6 +66,10 @@ nav {
 #list-div li {
   list-style: none;
 }
+#main-container {
+  padding: 3rem 0;
+  display: flex;
+}
 
 #filter-input {
   max-width: 150px;
@@ -74,20 +79,24 @@ nav {
   color: #333;
   font-size: 18px;
 }
-#main-container {
-  padding: 3rem 0;
+#div-for-cards {
+  background-color: antiquewhite;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
   display: flex;
-  flex: 1;
   justify-content: flex-start;
   align-items: flex-start;
   flex-wrap: wrap;
+  gap: 5px;
 }
 
 .verse-card,
 .edit-card {
-  width: 280px;
+  width: 250px;
+  height: 280px;
   border: 1px solid #2d4c50;
-  border-radius: 10px;
+  border-radius: 5px;
   cursor: pointer;
   padding: 1rem;
   margin: 10px;
@@ -102,33 +111,28 @@ nav {
   height: 280px;
   object-fit: cover;
   border-radius: 5px;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 .verse-card h2,
 .edit-card h2 {
   color: #141414;
-  font-size: 1.7rem;
   font-weight: 500;
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
 }
 .verse-card p,
 .edit-card p {
   font-size: 1.2rem;
   padding-top: 0.7rem;
   padding-bottom: 0.7rem;
+  flex-grow: 1;
+  overflow: auto;
+  font-size: 1rem;
+  line-height: 1.4;
 }
-@media (max-width: 500px) {
-  nav {
-    padding: 0 20px;
-  }
-  .navbar .logo {
-    font-size: 1.8rem;
-  }
-  #search-input {
-    width: 150px;
-    padding: 10px 10px;
-  }
-  .verse-card,
-  .edit-card {
-    width: 100%;
-  }
+.nav-btn,
+.verse-card > div,
+.edit-card > div {
+  margin-top: auto;
+  padding-top: 1rem;
 }
