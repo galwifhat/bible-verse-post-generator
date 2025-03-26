@@ -1,9 +1,9 @@
 // First fetch from Bible API and save to your server
 fetch("https://bible-api.com/john+3")
   .then((response) => response.json())
-  .then((bibleData) => {
+  .then((fetchBibleData) => {
     // Create array of POST promises
-    const postPromises = bibleData.verses.map((verse) => {
+    const postPromises = fetchBibleData.verses.map((verse) => {
       return fetch("http://localhost:3002/bibleData", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -19,9 +19,9 @@ fetch("https://bible-api.com/john+3")
     return fetch("http://localhost:3002/bibleData");
   })
   .then((response) => response.json())
-  .then((yourData) => {
+  .then((bibleVerses) => {
     // Display data from your server
-    displayBibleVerses(yourData);
+    displayBibleVerses(bibleVerses);
   })
   .catch((err) => console.error(err));
 
