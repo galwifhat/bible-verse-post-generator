@@ -44,7 +44,9 @@ nav {
 }
 #search-button,
 .navigation,
-.file-btn {
+.file-btn,
+.delete-btn,
+.share-btn {
   padding: 10px 20px;
   background-color: rgb(46, 19, 120);
   color: #fff;
@@ -93,6 +95,7 @@ nav {
 
 .verse-card,
 .edit-card {
+  position: relative;
   width: 250px;
   height: 280px;
   border: 1px solid #2d4c50;
@@ -135,4 +138,39 @@ nav {
 .edit-card > div {
   margin-top: auto;
   padding-top: 1rem;
+}
+
+.bookmark-btn,
+.like-btn,
+.share-btn {
+  background-color: inherit;
+  border: none;
+  padding: 8px 5px;
+  cursor: pointer;
+  font-size: 24px;
+}
+.bookmark-btn {
+  position: absolute;
+  top: 10px;
+  right: 50px;
+}
+.like-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.share-btn {
+  background-color: rgb(14, 95, 95);
+  padding: 8px 8px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 18px;
+}
+.delete-btn {
+  background-color: rgb(141, 19, 19);
+  padding: 8px 8px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
 }

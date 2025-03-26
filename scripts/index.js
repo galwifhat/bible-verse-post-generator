@@ -15,6 +15,7 @@ fetch("https://bible-api.com/john+3", {
       const li = document.createElement("li");
       li.classList.add("list", "clickable");
       li.textContent = `${verse.book_name} ${verse.chapter}:${verse.verse}`;
+
       // Store the full verse data on the list item
       li.dataset.verse = JSON.stringify(verse);
       //i am adding an event handler for saving the verse
@@ -38,6 +39,7 @@ fetch("https://bible-api.com/john+3", {
         displayBibleVerses(verseData);
       });
       //render the list items to our html immediately inside the loop
+
       verseList.appendChild(li);
     });
   })
@@ -62,9 +64,38 @@ function displayBibleVerses(verseData) {
   //create a p tag
   const verseText = document.createElement("p");
   verseText.textContent = verseData.text;
+
+  // create a div for buttons append to the verse card
+  const buttonDiv = document.createElement("div");
+  buttonDiv.classList.add("button-div");
+  //create like button
+  const likeBtn = document.createElement("button");
+  likeBtn.classList.add("like-btn");
+  likeBtn.textContent = `❤️`;
+
+  //create bookmark button
+  const bookmarkBtn = document.createElement("button");
+  bookmarkBtn.classList.add("bookmark-btn");
+  bookmarkBtn.textContent = `⭐`;
+
+  //create delete button
+  const deleteBtn = document.createElement("button");
+  deleteBtn.classList.add("delete-btn");
+  deleteBtn.textContent = `Delete`;
+
+  //share button
+  const shareBtn = document.createElement("button");
+  shareBtn.classList.add("share-btn");
+  shareBtn.textContent = `Share`;
+
   // append
   // verseCard.appendChild(img);
+
   verseCard.appendChild(verseNumber);
   verseCard.appendChild(verseText);
+  verseCard.appendChild(bookmarkBtn);
+  verseCard.appendChild(likeBtn);
+  verseCard.appendChild(deleteBtn);
+  verseCard.appendChild(shareBtn);
   divForCards.appendChild(verseCard);
 }
