@@ -7,29 +7,76 @@
     <link rel="stylesheet" href="./css/main.css" />
   </head>
   <body>
-    <header>
-      <div class="header-div">
-        <div class="logo"><h1>Im here</h1></div>
-        <div class="main-nav">
-          <ul>
-            <li><a href="">link</a></li>
-            <li><a href="">link</a></li>
-            <li><a href="">link</a></li>
-            <li><a href="">link</a></li>
-          </ul>
-        </div>
-        <div class="search-bar">
-          <input
-            type="text"
-            placeholder="Search"
-            maxlength="250"
-            autocomplete="off"
-          />
+    <nav class="navbar obj-width">
+      <div>
+        <a class="logo" href="index.html">Bible Verses</a>
+      </div>
+      <div>
+        <input
+          type="text"
+          name="text"
+          placeholder="Search verse here..."
+          id="search-input"
+          class="search-input"
+          autocomplete="off"
+          role="searchbox"
+        />
+        <button id="search-button">Search</button>
+      </div>
+    </nav>
+    <main class="obj-width" id="main-container">
+      <div class="list-div" id="list-div">
+        <input
+          type="text"
+          name="text"
+          placeholder="filter"
+          id="filter-input"
+          class="filter-input"
+          autocomplete="off"
+          role="searchbox"
+        />
+        <h2>bibleData:book_name</h2>
+        <ul>
+          <li>Bible verses goes here</li>
+        </ul>
+      </div>
+      <div class="verse-card" id="verse-card">
+        <img
+          src="https://th.bing.com/th/id/R.e5bb6cc19cd2ee56e9ca7ea558118961?rik=7a73JsX76gtWIA&riu=http%3a%2f%2fdummyimage.com%2f600x400%2f000%2f00ffd5.png&ehk=3rQloKY%2bch2nSunn73BG728vXIdq7NHBbtZdJEzCfpU%3d&risl=&pid=ImgRaw&r=0"
+          alt=""
+        />
+        <h2>book + chapter + verse number</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ipsa
+          dignissimos nihil sit quo, vero velit. Debitis, amet ratione. Animi ea
+          aut sapiente quam, eum reiciendis aperiam repellendus explicabo fugit.
+        </p>
+
+        <div class="nav-btn">
+          <button class="navigation" id="prev-btn">Prev</button>
+          <button class="navigation" id="delete-btn">Delete</button>
+          <button class="navigation" id="search-btn">Nxt</button>
         </div>
       </div>
-    </header>
-    <main></main>
-    <footer></footer>
+
+      <div class="edit-card" id="edit-card">
+        <img
+          src="https://th.bing.com/th/id/R.e5bb6cc19cd2ee56e9ca7ea558118961?rik=7a73JsX76gtWIA&riu=http%3a%2f%2fdummyimage.com%2f600x400%2f000%2f00ffd5.png&ehk=3rQloKY%2bch2nSunn73BG728vXIdq7NHBbtZdJEzCfpU%3d&risl=&pid=ImgRaw&r=0"
+          alt=""
+        />
+        <h2>book + chapter + verse number</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum
+          officiis, recusandae soluta, enim id quas corrupti quae consequuntur
+          impedit consequatur iste quos expedita tempora temporibus quam
+          sapiente labore amet incidunt?
+        </p>
+        <div>
+          <button class="file-btn" id="upload-btn">Upload</button>
+          <button class="file-btn" id="download-btn">Download</button>
+        </div>
+      </div>
+    </main>
     <script src="./scripts/index.js"></script>
   </body>
 </html>

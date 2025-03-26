@@ -1,15 +1,7 @@
 {
   "bibleData": [
     {
-      "id": "7984",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 1,
-      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
-    },
-    {
-      "id": "9da3",
+      "id": "bbba",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -17,15 +9,15 @@
       "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
     },
     {
-      "id": "b630",
+      "id": "42dc",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 3,
-      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
     },
     {
-      "id": "bf30",
+      "id": "0ae0",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -33,7 +25,15 @@
       "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
     },
     {
-      "id": "890e",
+      "id": "160d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "195b",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -41,15 +41,7 @@
       "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
     },
     {
-      "id": "ab6c",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 6,
-      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
-    },
-    {
-      "id": "86fa",
+      "id": "7647",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -57,7 +49,7 @@
       "text": "Nicodemus answered him, “How can these things be?”\n"
     },
     {
-      "id": "789e",
+      "id": "ea06",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -65,15 +57,15 @@
       "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
     },
     {
-      "id": "94f7",
+      "id": "963a",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 8,
-      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
     },
     {
-      "id": "d8b7",
+      "id": "0b26",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -81,7 +73,15 @@
       "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
     },
     {
-      "id": "c87a",
+      "id": "ddb5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "eb1b",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -89,7 +89,7 @@
       "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
     },
     {
-      "id": "d5a5",
+      "id": "d6e7",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -97,23 +97,7 @@
       "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
     },
     {
-      "id": "8796",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 15,
-      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
-    },
-    {
-      "id": "faa8",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 17,
-      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
-    },
-    {
-      "id": "ccd8",
+      "id": "2e7a",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -121,15 +105,7 @@
       "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
     },
     {
-      "id": "b372",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 14,
-      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
-    },
-    {
-      "id": "fa70",
+      "id": "09ed",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -137,255 +113,7 @@
       "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
     },
     {
-      "id": "1e84",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 18,
-      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
-    },
-    {
-      "id": "8c30",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 23,
-      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
-    },
-    {
-      "id": "65ff",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 20,
-      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
-    },
-    {
-      "id": "d81b",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 24,
-      "text": "For John was not yet thrown into prison.\n"
-    },
-    {
-      "id": "db3d",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 21,
-      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
-    },
-    {
-      "id": "a488",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 19,
-      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
-    },
-    {
-      "id": "5344",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 22,
-      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
-    },
-    {
-      "id": "5e4c",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 27,
-      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
-    },
-    {
-      "id": "9728",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 25,
-      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
-    },
-    {
-      "id": "4ffc",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 28,
-      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
-    },
-    {
-      "id": "dffe",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 29,
-      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
-    },
-    {
-      "id": "f1f3",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 26,
-      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
-    },
-    {
-      "id": "94f1",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 30,
-      "text": "He must increase, but I must decrease.\n"
-    },
-    {
-      "id": "a288",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 35,
-      "text": "The Father loves the Son, and has given all things into his hand.\n"
-    },
-    {
-      "id": "bd60",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 32,
-      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
-    },
-    {
-      "id": "9934",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 31,
-      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
-    },
-    {
-      "id": "146d",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 33,
-      "text": "He who has received his witness has set his seal to this, that God is true.\n"
-    },
-    {
-      "id": "d35f",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 34,
-      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
-    },
-    {
-      "id": "1452",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 36,
-      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
-    },
-    {
-      "id": "9699",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 1,
-      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
-    },
-    {
-      "id": "97f5",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 2,
-      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
-    },
-    {
-      "id": "96a9",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 3,
-      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
-    },
-    {
-      "id": "1d40",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 7,
-      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
-    },
-    {
-      "id": "3a57",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 4,
-      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
-    },
-    {
-      "id": "0164",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 5,
-      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
-    },
-    {
-      "id": "48ea",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 8,
-      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
-    },
-    {
-      "id": "8deb",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 6,
-      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
-    },
-    {
-      "id": "5a98",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 9,
-      "text": "Nicodemus answered him, “How can these things be?”\n"
-    },
-    {
-      "id": "e834",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 13,
-      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
-    },
-    {
-      "id": "3dd7",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 12,
-      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
-    },
-    {
-      "id": "1fde",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 10,
-      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
-    },
-    {
-      "id": "abfc",
+      "id": "e673",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -393,15 +121,7 @@
       "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
     },
     {
-      "id": "1cda",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 11,
-      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
-    },
-    {
-      "id": "072e",
+      "id": "88e5",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -409,39 +129,7 @@
       "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
     },
     {
-      "id": "be1d",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 16,
-      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
-    },
-    {
-      "id": "e053",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 20,
-      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
-    },
-    {
-      "id": "7c89",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 17,
-      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
-    },
-    {
-      "id": "792a",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 19,
-      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
-    },
-    {
-      "id": "de1e",
+      "id": "2bb5",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -449,7 +137,15 @@
       "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
     },
     {
-      "id": "50fa",
+      "id": "97fb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "c182",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -457,7 +153,7 @@
       "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
     },
     {
-      "id": "81b5",
+      "id": "3b6c",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -465,15 +161,7 @@
       "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
     },
     {
-      "id": "6e13",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 24,
-      "text": "For John was not yet thrown into prison.\n"
-    },
-    {
-      "id": "9161",
+      "id": "f881",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -481,31 +169,23 @@
       "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
     },
     {
-      "id": "ad05",
+      "id": "7c80",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 27,
-      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
     },
     {
-      "id": "6c01",
+      "id": "3269",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 25,
-      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
     },
     {
-      "id": "170d",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 29,
-      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
-    },
-    {
-      "id": "aa0c",
+      "id": "4a85",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -513,15 +193,7 @@
       "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
     },
     {
-      "id": "3ea9",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 30,
-      "text": "He must increase, but I must decrease.\n"
-    },
-    {
-      "id": "8c13",
+      "id": "b571",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -529,15 +201,15 @@
       "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
     },
     {
-      "id": "bbee",
+      "id": "2d90",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 31,
-      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
     },
     {
-      "id": "d90e",
+      "id": "c3be",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -545,23 +217,31 @@
       "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
     },
     {
-      "id": "6e0f",
+      "id": "a2a1",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 35,
-      "text": "The Father loves the Son, and has given all things into his hand.\n"
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
     },
     {
-      "id": "54f6",
+      "id": "22f3",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 33,
-      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
     },
     {
-      "id": "c154",
+      "id": "4139",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "7f18",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -569,7 +249,31 @@
       "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
     },
     {
-      "id": "71d8",
+      "id": "a89e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "285d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "c20e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "273e",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -577,7 +281,15 @@
       "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
     },
     {
-      "id": "df02",
+      "id": "7eb1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "4141",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -585,7 +297,7 @@
       "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
     },
     {
-      "id": "0da7",
+      "id": "305d",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -593,7 +305,7 @@
       "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
     },
     {
-      "id": "34f7",
+      "id": "073b",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -601,15 +313,7 @@
       "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
     },
     {
-      "id": "7864",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 4,
-      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
-    },
-    {
-      "id": "239c",
+      "id": "0032",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -617,7 +321,15 @@
       "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
     },
     {
-      "id": "a6d0",
+      "id": "15ea",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "c4e8",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -625,7 +337,7 @@
       "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
     },
     {
-      "id": "95f7",
+      "id": "76c8",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -633,7 +345,7 @@
       "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
     },
     {
-      "id": "82e7",
+      "id": "d167",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -641,31 +353,7 @@
       "text": "Nicodemus answered him, “How can these things be?”\n"
     },
     {
-      "id": "17de",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 8,
-      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
-    },
-    {
-      "id": "07a2",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 12,
-      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
-    },
-    {
-      "id": "e5c7",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 11,
-      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
-    },
-    {
-      "id": "5f01",
+      "id": "d7da",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -673,31 +361,1999 @@
       "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
     },
     {
-      "id": "3b6b",
+      "id": "9ee7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "4d90",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "9802",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "e4bb",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 13,
       "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "85a4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "cd4c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "3a2c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "e6ff",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "010e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "c867",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "aac3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "524d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "986d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "85b7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "b091",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "e90e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "5507",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "e479",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "bd58",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "77f5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "7254",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "92d4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "4094",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "9900",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "6f1c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "3d41",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "8d5d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "5f3b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "f769",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "8cc4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "718a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "4267",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "6479",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "8a5d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "ea5b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "8081",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "6f72",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "f0c6",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "7a32",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "15a8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "cb6e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "58ba",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "4d8f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "5f1c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "d3cb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "fcae",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "f2a2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "48a4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "3703",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "987b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "83cf",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "2b68",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "a619",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "da9e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "9134",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "6ca3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "e487",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "85ad",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "df9a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "c783",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "3607",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "bb2a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "7317",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "0c09",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "1eed",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "2bd7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "921b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "93f2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "3806",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "c0da",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "c174",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "3fdc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "14b9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "4276",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "841a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "7230",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "2644",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "8b17",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "062b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "7fb3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "eb34",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "7353",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "66c1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "02c0",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "f858",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "e543",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "43e4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "02a8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "b326",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "6e1c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "03a0",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "ce27",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "7f9c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "00fe",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "bf2b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "176b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "b9c7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "5834",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "64c5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "58e4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "01d8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "22a8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "ef5e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "d861",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "d241",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "f872",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "69dc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "96c5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "5d58",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "a79c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "f059",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "d031",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "8a5d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "ef99",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "33d9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "a543",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "6b2f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "ef6c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "bb5c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "3886",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "c2a9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "f965",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "c38a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "6c2e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "51d8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "a187",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "da5f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "30d3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "dd91",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "daaf",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "16e4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "3cde",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "780b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "09d3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "2cfc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "91a6",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "4c0c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "7025",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "a8a1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "640d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "030e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "262b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "bbd3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "bbb0",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "a8d9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "a917",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "7122",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "8e4d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "acb5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "f581",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "99bb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "b585",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "45f9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "dfcc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "c2e9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "e837",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "52a9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "f43b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "4b8d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "24da",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "0a4c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "5805",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "63d5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "006f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "cfd9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "386f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "eb82",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "120b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "c8a4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "fd00",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "9445",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "2d5f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "c924",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "eee2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "5ca2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "d059",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "3fbb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "03e7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "e2ee",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "3282",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "f1cd",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "94bf",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "3599",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "159c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "f6f5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "d41b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "7ef4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "8fb2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "5897",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "c7d7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "0782",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "8872",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "e78d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "f8e6",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "9107",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "c7bd",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "c781",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "1b0c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "e64a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "10f4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "1b6f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "8900",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "9f6e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "4157",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "c25a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "53e7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "aaa5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "c4c4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "61c8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "ea52",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "712a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "7f17",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "b209",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "89e3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "b35c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "96ab",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "1df1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "4dd1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "d669",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "51b8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "ff16",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "d4f4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "30b8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "0338",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "f8f3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "794f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "f265",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "a25c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "8694",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "fa86",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "1b32",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "b733",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "8208",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "780c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "1b0e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "5310",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "e433",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "8c3f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "9647",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "f311",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "af8b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "c39b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
     },
     {
       "id": "98cf",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 15,
-      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
     },
     {
-      "id": "49f9",
+      "id": "6d52",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 14,
-      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
     },
     {
-      "id": "2e09",
+      "id": "a68e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "b0b2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "b881",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "5f5c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "a331",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "7fd7",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -705,15 +2361,23 @@
       "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
     },
     {
-      "id": "87b3",
+      "id": "a706",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 18,
-      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
     },
     {
-      "id": "5531",
+      "id": "bce0",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "abc6",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -721,47 +2385,23 @@
       "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
     },
     {
-      "id": "1f2e",
+      "id": "63c2",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 19,
-      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
     },
     {
-      "id": "0d6b",
+      "id": "5df3",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 20,
-      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
     },
     {
-      "id": "ceff",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 21,
-      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
-    },
-    {
-      "id": "7c2a",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 22,
-      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
-    },
-    {
-      "id": "c12b",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 25,
-      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
-    },
-    {
-      "id": "fc84",
+      "id": "5d83",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -769,7 +2409,55 @@
       "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
     },
     {
-      "id": "fcc2",
+      "id": "c485",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "6895",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "bb16",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "994a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "c3b7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "45b7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "2504",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -777,39 +2465,39 @@
       "text": "For John was not yet thrown into prison.\n"
     },
     {
-      "id": "ec37",
+      "id": "8aa9",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 26,
-      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
     },
     {
-      "id": "e0a6",
+      "id": "9e6f",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 30,
-      "text": "He must increase, but I must decrease.\n"
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
     },
     {
-      "id": "b1a5",
+      "id": "7ca4",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 32,
-      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
     },
     {
-      "id": "981e",
+      "id": "de1b",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 29,
-      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
     },
     {
-      "id": "4333",
+      "id": "a824",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -817,15 +2505,23 @@
       "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
     },
     {
-      "id": "83ce",
+      "id": "2969",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
-      "verse": 28,
-      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
     },
     {
-      "id": "5c28",
+      "id": "dff5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "4c44",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -833,7 +2529,23 @@
       "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
     },
     {
-      "id": "bf34",
+      "id": "38da",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "be69",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "c705",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -841,7 +2553,15 @@
       "text": "He who has received his witness has set his seal to this, that God is true.\n"
     },
     {
-      "id": "6170",
+      "id": "bc7e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "06f0",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -849,7 +2569,15 @@
       "text": "The Father loves the Son, and has given all things into his hand.\n"
     },
     {
-      "id": "3fbc",
+      "id": "8e5c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "f0d9",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
@@ -857,7 +2585,2023 @@
       "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
     },
     {
-      "id": "2f3f",
+      "id": "68c4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "ae0b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "9264",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "c2bd",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "27bd",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "18cb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "2ab5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "a13b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "74f7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "dd8f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "2fdb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "9440",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "d143",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "9896",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "408a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "5ba1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "eab3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "12bf",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "bf1b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "1bfa",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "e476",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "488e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "83ae",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "b5e8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "355d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "5c89",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "14f7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "2802",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "5f96",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "fb46",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "e023",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "faff",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "80f7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "62c5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "663b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "04fc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "091c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "f48c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "867d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "c5dd",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "79df",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "6ba5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "e844",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "c840",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "429b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "d1b4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "6dc7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "f322",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "3aaf",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "8945",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "66ad",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "4ad3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "e1f3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "ce69",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "a3a5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "f3fe",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "0c6b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "836a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "f76f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "74fe",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "0b16",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "d326",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "749c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "088b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "2a0b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "a05c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "b4af",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "72b4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "3544",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "11c4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "71d4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "71db",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "28c8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "5401",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "19e8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "8adc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "0134",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "2c3a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "deaa",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "f949",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "da2c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "9650",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "eb5c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "1c37",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "883e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "8233",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "d6b3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "5558",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "7df8",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "7529",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "6231",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "b239",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "d575",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "47d4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "ed3e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "764b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "db68",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "223c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "1386",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "578c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "a04b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "8c32",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "eb22",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "d9fb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "5e18",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "d630",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "e769",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "a21a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "035b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "2f52",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "eeac",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "f380",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "4d33",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "193f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "f55e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "9049",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "48eb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "d991",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "2e6e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "288f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "6302",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "a689",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "987d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "5e34",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "6b75",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "5af7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "5174",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "0daf",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "24d9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "41e3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "1ce4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "4e88",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "103d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "da34",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "8fc7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "c321",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "94e0",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "3544",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "6582",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "2b87",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "5bb3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "40a3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "1cdb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "aefc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "4499",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "df15",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "6b24",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "f8a3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "6442",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "8b26",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "891c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "2e4e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "0f26",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "f1fb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "a0b4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "3026",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "e88e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "1017",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "611e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "7bcb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "1bab",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "5e74",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "c72d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "e85a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "415d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "4078",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "db7e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "1c5e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "3305",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "1db3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "9e71",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "857f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "0d01",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "511b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "7128",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "166f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "76eb",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "0a2b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "23d2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "7ad1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "1fc9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "0881",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "bce4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "5135",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "0e82",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "6305",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "4b0b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "9758",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "c753",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "1761",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "8cee",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "8a2c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "f4a1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "709d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "6d48",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "6a5e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "ba4c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "255c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "0029",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "7dee",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "d0b9",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "fc95",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "bbdd",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "1214",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "4118",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "b1d5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "f8c5",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "39b7",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "289a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "c435",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "fd86",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "e0f0",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "4072",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "ef44",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "9c6b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God has sent speaks the words of God; for God gives the Spirit without measure.\n"
+    },
+    {
+      "id": "b216",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "e480",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "5528",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n"
+    },
+    {
+      "id": "cf0e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n"
+    },
+    {
+      "id": "f772",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n"
+    },
+    {
+      "id": "ad79",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n"
+    },
+    {
+      "id": "c959",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n"
+    },
+    {
+      "id": "5e7d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n"
+    },
+    {
+      "id": "d5a3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n"
+    },
+    {
+      "id": "ef3b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 8,
+      "text": "\nThe wind\nblows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.”\n"
+    },
+    {
+      "id": "d7d3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n"
+    },
+    {
+      "id": "c43b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n"
+    },
+    {
+      "id": "c432",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 12,
+      "text": "\nIf I told you earthly things and you don’t believe, how will you believe if I tell you heavenly things?\n\n"
+    },
+    {
+      "id": "b22a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n"
+    },
+    {
+      "id": "0a83",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered him,\n“Are you the teacher of Israel, and don’t understand these things?\n\n"
+    },
+    {
+      "id": "3175",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n"
+    },
+    {
+      "id": "9b01",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "5852",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n"
+    },
+    {
+      "id": "d641",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 14,
+      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n"
+    },
+    {
+      "id": "f5f1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 15,
+      "text": "\nthat whoever believes in him should not perish, but have eternal life.\n\n"
+    },
+    {
+      "id": "3dd3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n"
+    },
+    {
+      "id": "19a3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n"
+    },
+    {
+      "id": "f776",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n"
+    },
+    {
+      "id": "cef1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 23,
+      "text": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.\n"
+    },
+    {
+      "id": "dde1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n"
+    },
+    {
+      "id": "ac4f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n"
+    },
+    {
+      "id": "4aa1",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n"
+    },
+    {
+      "id": "b702",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 29,
+      "text": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.\n"
+    },
+    {
+      "id": "fd85",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n"
+    },
+    {
+      "id": "0be4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered, “A man can receive nothing, unless it has been given him from heaven.\n"
+    },
+    {
+      "id": "265f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease.\n"
+    },
+    {
+      "id": "500d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 33,
+      "text": "He who has received his witness has set his seal to this, that God is true.\n"
+    },
+    {
+      "id": "bc88",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n"
+    },
+    {
+      "id": "bcd3",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n"
+    },
+    {
+      "id": "2a1a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n"
+    },
+    {
+      "id": "980e",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n"
+    },
+    {
+      "id": "a480",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 36,
+      "text": "One who believes in the Son has eternal life, but one who disobeys\n the Son won’t see life, but the wrath of God remains on him.”\n"
+    },
+    {
+      "id": "b04f",
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,

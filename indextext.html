@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quote Generator</title>
+    <link rel="stylesheet" href="./indextext.html" />
+  </head>
+  <body>
+    <header>
+        <div class="nav-area-div">
+            <div class="logo">Quote Generator</div>
+            <nav>
+              <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Contact us</a></li>
+                <li><a href="#">Get a personalized quote</a></li>
+              </ul>
+            </nav>
+          </header>
+        </div>
+    <main>
+      <div class="container">
+        <div class="search-bar">
+          <input type="text" placeholder="Search for quotes..." />
+          <button><i class="fas fa-search"></i> Search</button>
+        </div>
+
+        <div class="date-display">
+          Today's date: <span id="current-date">March 25, 2025</span>
+        </div>
+
+        <div class="quote-card">
+          <div class="quote-text" id="quote-text">
+            "The only way to do great work is to love what you do."
+          </div>
+          <div class="book-chapeter-verse" id="quote-author">- Steve Jobs</div>
+          <div class="quote-actions">
+            <button
+              class="action-btn"
+              id="bookmark-btn"
+              title="Bookmark this quote"
+            >
+              <i class="far fa-bookmark"></i>
+            </button>
+            <div class="like-counter">
+              <button class="action-btn" id="like-btn" title="Like this quote">
+                <i class="far fa-heart"></i>
+              </button>
+              <span id="like-count">42</span>
+            </div>
+            <button class="action-btn" id="share-btn" title="Share this quote">
+              <i class="fas fa-share-alt"></i>
+            </button>
+          </div>
+        </div>
+
+        <div class="navigation">
+          <button class="nav-btn" id="prev-btn">
+            <i class="fas fa-arrow-left"></i> Previous
+          </button>
+          <button class="nav-btn" id="next-btn">
+            Next <i class="fas fa-arrow-right"></i>
+          </button>
+        </div>
+
+        <div class="customization-panel">
+          <h3>Customize Your Experience</h3>
+          <div class="custom-options">
+            <div class="option-group">
+              <label for="color-theme">Color Theme</label>
+              <select id="color-theme">
+                <option value="default">Default Blue</option>
+                <option value="purple">Purple</option>
+                <option value="dark">Dark Mode</option>
+              </select>
+            </div>
+            <div class="option-group">
+              <label for="font-style">Font Style</label>
+              <select id="font-style">
+                <option value="default">Default (Sans-serif)</option>
+                <option value="serif">Serif</option>
+              </select>
+            </div>
+            <div class="option-group">
+              <label for="text-color">Text Color</label>
+              <input type="color" id="text-color" value="#333333" />
+            </div>
+            <div class="option-group">
+              <label for="image-color">Image Color (if any)</label>
+              <input type="color" id="image-color" value="#3498db" />
+            </div>
+          </div>
+
+          <div class="file-actions">
+            <button class="file-btn" id="upload-btn">
+              <i class="fas fa-upload"></i> Upload Quotes
+            </button>
+            <button class="file-btn" id="download-btn">
+              <i class="fas fa-download"></i> Download Quote
+            </button>
+          </div>
+        </div>
+
+        <a href="#" class="donation-link" id="coffee-btn">
+          <i class="fas fa-coffee"></i> Buy me a coffee
+        </a>
+      </div>
+    </main>
+    <footer>
+      <h3>I will think of something to put here</h3>
+    </footer>
+
+    <script src="./scripts/test.js"></script>
+  </body>
+</html>

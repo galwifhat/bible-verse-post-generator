@@ -1,79 +1,134 @@
 * {
-  margin: 0 auto;
-  padding: 0 20px;
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
-html {
-  max-width: 1200px;
-  height: 100vh;
-}
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.6;
+  position: relative;
 }
-
-.header-div {
+/* global css */
+.obj-width {
+  max-width: 1200px;
+  margin: auto;
+}
+nav {
+  background-color: aqua;
+  box-shadow: 0 7px 10px rgba(0, 0, 0, 0.3);
+}
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: aliceblue;
-  overflow: hidden;
+  padding: 1.3rem 0.5rem;
 }
+
+.navbar,
 .logo {
-  background-color: aquamarine;
-  margin: 0;
-  padding: 0;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 2.2rem;
 }
-.main-nav {
+#search-input {
+  max-width: 400px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: #333;
+  font-size: 18px;
+}
+.nav-btn {
   display: flex;
   justify-content: space-between;
-  text-align: center;
-  background-color: #80f321;
-  padding: 0%;
-  margin: 0%;
 }
-.main-nav ul {
-  list-style: none;
+#search-button,
+.navigation,
+.file-btn {
+  padding: 10px 20px;
+  background-color: rgb(46, 19, 120);
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: left 10px;
+}
+#list-div {
+  padding: 3rem 2rem;
   display: flex;
-  gap: 20px;
+  flex-direction: column;
+  width: 300px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
 }
-.main-nav ul li a {
-  text-decoration: none;
+
+#list-div li {
+  list-style: none;
+}
+
+#filter-input {
+  max-width: 150px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
   color: #333;
+  font-size: 18px;
 }
-.search-bar {
-  overflow: hidden;
-  background-color: #b3a5a5;
-  position: relative;
+#main-container {
+  padding: 3rem 0;
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.verse-card,
+.edit-card {
+  width: 280px;
+  border: 1px solid #2d4c50;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 1rem;
+  margin: 10px;
+}
+.verse-card:hover,
+.edit-card:hover {
+  box-shadow: 4px 4px 10px rgba(112, 24, 24, 0.3);
+}
+.verse-card img,
+.edit-card img {
   width: 100%;
-  max-width: 400px; /* Adjust as needed */
-  margin: 0 auto;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 1rem;
 }
-
-.search-bar input {
-  width: 100%;
-  padding: 12px 20px;
-  padding-left: 40px; /* Space for the search icon */
-  font-size: 16px;
-  border: 1px solid #ddd;
-  border-radius: 17px; /* Rounded corners */
-  outline: none;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
+.verse-card h2,
+.edit-card h2 {
+  color: #141414;
+  font-size: 1.7rem;
+  font-weight: 500;
 }
-
-.search-bar input:focus {
-  border-color: #4a90e2; /* Highlight color when focused */
-  box-shadow: 0 2px 10px rgba(45, 77, 114, 0.2);
+.verse-card p,
+.edit-card p {
+  font-size: 1.2rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
 }
-
-/* Optional: Add a search icon 
-.search-bar::before {
-  content: "🔍";  Or use a font-awesome icon 
-  position: absolute;
-  left: 15px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: #999;
+@media (max-width: 500px) {
+  nav {
+    padding: 0 20px;
+  }
+  .navbar .logo {
+    font-size: 1.8rem;
+  }
+  #search-input {
+    width: 150px;
+    padding: 10px 10px;
+  }
+  .verse-card,
+  .edit-card {
+    width: 100%;
+  }
 }
- */

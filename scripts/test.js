@@ -1,4 +1,4 @@
-/* // First fetch from Bible API and save to your server
+// First fetch from Bible API and save to your server
 fetch("https://bible-api.com/john+3")
   .then((response) => response.json())
   .then((bibleData) => {
@@ -45,4 +45,3 @@ function displayBibleVerses(bibleVerses) {
     mainContainer.appendChild(verseCard);
   });
 }
- */
