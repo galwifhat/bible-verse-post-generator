@@ -23,20 +23,48 @@ fetch("https://bible-api.com/john+3", {
       li.addEventListener("click", (event) => {
         event.preventDefault();
         // Get the verse data from the clicked list item
+        // let parsedData = JSON.parse(data);
         const verseData = JSON.parse(event.currentTarget.dataset.verse);
 
         fetch("http://localhost:3002/bibleData", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(verse),
+          body: JSON.stringify(verseData),
         })
           .then((response) => response.json())
-          .then((data) => console.log("saved:", data))
+          .then((savedData) => {
+            console.log("Saved:", savedData);
+            console.log("Attempting to update:", savedData.id);
+            //if created
+            //I need to patch/put
+            return (
+              fetch(`http://localhost:3002/bibleData/${savedData.id}`, {
+                method: "PATCH",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                  currentLikes: 0,
+                  currentBookMarks: 0,
+                }),
+              })
+                .then((response) => response.json())
+                //.then((updatedData) => console.log("updated:", updatedData))
+                .then((updatedData) => {
+                  console.log("Updated:", updatedData);
+
+                  if (!updatedData) {
+                    console.error("updatedData is undefined or null");
+                    return;
+                  }
+                  console.log("DisplayBibleVerses with:", updatedData);
+                  displayBibleVerses(updatedData); // this will be okay if inside the function, all works
+                })
+                .catch((err) => console.error("Update error:", err))
+            );
+          })
           .catch((err) => console.error("Save error:", err));
 
         // Get the verse data from the clicked list item
         // Display the verse content
-        displayBibleVerses(verseData);
       });
       //render the list items to our html immediately inside the loop
 
@@ -48,7 +76,8 @@ fetch("https://bible-api.com/john+3", {
 const divForCards = document.getElementById("div-for-cards");
 
 //create the display function
-function displayBibleVerses(verseData) {
+function displayBibleVerses(updatedData) {
+  console.log("Displaying:", updatedData);
   //remove previous verse
   //mainContainer.innerHTML = "";
   //create the div tag
@@ -60,12 +89,12 @@ function displayBibleVerses(verseData) {
   img.alt = verse.id; */
   //create a h2 tag
   const verseNumber = document.createElement("h2");
-  verseNumber.textContent = `${verseData.book_name} ${verseData.chapter}:${verseData.verse}`;
+  verseNumber.textContent = `${updatedData.book_name} ${updatedData.chapter}:${updatedData.verse}`;
   //create a p tag
   const verseText = document.createElement("p");
-  verseText.textContent = verseData.text;
+  verseText.textContent = updatedData.text;
 
-  // create a div for buttons append to the verse card
+  // create a div for buttons append to the verse card//changed my mind on this
   const buttonDiv = document.createElement("div");
   buttonDiv.classList.add("button-div");
   //create like button
