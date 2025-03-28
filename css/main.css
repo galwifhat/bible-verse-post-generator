@@ -21,11 +21,13 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 1.3rem 0.5rem;
+  position: sticky;
+  z-index: 1000;
 }
 
 .navbar,
 .logo {
-  color: white;
+  color: rgb(24, 14, 14);
   text-decoration: none;
   letter-spacing: 2px;
   font-size: 2.2rem;
@@ -69,8 +71,9 @@ nav {
   list-style: none;
 }
 #main-container {
-  padding: 3rem 0;
+  padding: 2rem 0;
   display: flex;
+  background-color: antiquewhite;
 }
 
 #filter-input {
@@ -82,7 +85,7 @@ nav {
   font-size: 18px;
 }
 #div-for-cards {
-  background-color: antiquewhite;
+  background-color: inherit;
   border: none;
   border-radius: 5px;
   padding: 10px 20px;
