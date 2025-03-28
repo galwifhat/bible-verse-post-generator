@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
               console.log("Saved:", savedData);
               console.log("Attempting to update:", savedData.id);
 
-              //fetch image url from api and patch to db
+              //fetch image url and patch to db
               return fetch("https://picsum.photos/250/280", {
                 method: "GET",
                 headers: {
@@ -90,16 +90,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const divForCards = document.getElementById("div-for-cards");
 
-  function searchVerse() {
-    const searchInput = document.getElementById("search-input").value;
-    document.querySelectorAll(".updateData").forEach((data) => {
-      data.style.display = data.textContent.includes(searchInput)
-        ? "block"
-        : "none";
-    });
-  }
-
-  searchVerse();
   //create the display function
   function displayBibleVerses(updatedData) {
     //remove previous verse

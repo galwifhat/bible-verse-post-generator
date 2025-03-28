@@ -1,3 +1,301 @@
 {
-  "bibleData": []
+  "bibleData": [
+    {
+      "id": "0d1d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”\n",
+      "currentLikes": 1,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/983/250/280.jpg?hmac=pPwuwvXe7i1BS5GGgUG9Awues5MDr95c4LFnDBQZ_oM"
+    },
+    {
+      "id": "42bc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 26,
+      "text": "They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”\n",
+      "currentLikes": 1,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/182/250/280.jpg?hmac=sH1uubmllRmnmy4K1n006wGGOftBym_pVMNxIS1jVJo"
+    },
+    {
+      "id": "1064",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 31,
+      "text": "He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.\n",
+      "currentLikes": 1,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/457/250/280.jpg?hmac=Nyc4XKIhj-mKxiPKRdz2SMdZZY1XnuKkNrz9-AduWU0"
+    },
+    {
+      "id": "e9a2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 21,
+      "text": "\nBut he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”\n",
+      "currentLikes": 1,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/778/250/280.jpg?hmac=hNUiJhP11X69mo1u2nHqLQi59C1cqkzhn939zdtkWJE"
+    },
+    {
+      "id": "7d3b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 25,
+      "text": "There arose therefore a questioning on the part of John’s disciples with some Jews about purification.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/544/250/280.jpg?hmac=6hp_bpk24fWgeWaCLxHUxoS-Rr9bl5f3XrJr0YQ4ygI"
+    },
+    {
+      "id": "335f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/376/250/280.jpg?hmac=rMFG6yWXKVyoQQ72c0q2HChb2U5ZVjGaC8Qzqk_K9JI"
+    },
+    {
+      "id": "d26f",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/404/250/280.jpg?hmac=Gf9H8oii2j0Ymf-vnfnlMVmO5vDB0KxD8tBKUyz-Z2U"
+    },
+    {
+      "id": "369a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/111/250/280.jpg?hmac=zgo68WWTZEnCXrUgaJ1SUZM7La0GyYvSqiHacUL4SgE"
+    },
+    {
+      "id": "87bf",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered him, “How can these things be?”\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/661/250/280.jpg?hmac=yB98Jkad_wa8K5eUq3smmu0UbUlX68cgkBSqYxcWFxg"
+    },
+    {
+      "id": "07ad",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/599/250/280.jpg?hmac=8c_5Rbrlo-JZcdFIAWyhMTiHf2gj_1PTaEXPHmgJSy4"
+    },
+    {
+      "id": "3666",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/482/250/280.jpg?hmac=GMICFokUX-xt4legj32VgULBiWcD7ZRWnUdtx008SxI"
+    },
+    {
+      "id": "2b35",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 13,
+      "text": "\nNo one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/509/250/280.jpg?hmac=HChA68c8hRgBxtA7WdKwxJvjo7iVi5OJ73CCEI3PzIc"
+    },
+    {
+      "id": "9a6c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 16,
+      "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/305/250/280.jpg?hmac=Nk66dBfLDp7rU5mimyWLO-z0apZaGVXHO3Dey7M7Gl0"
+    },
+    {
+      "id": "9ecd",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/532/250/280.jpg?hmac=GZdr-609IfnOI5hXPPnHoZd0PnXZULCJKMYcXwHh3WY"
+    },
+    {
+      "id": "e572",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered,\n“Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/23/250/280.jpg?hmac=ZTp7vIgeQdKIg3IFk4yAb2IOpKW1zjOWxog-lepU0S8"
+    },
+    {
+      "id": "be4a",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 6,
+      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/930/250/280.jpg?hmac=DUGh5M6ap2C-iJFK7famps1VCXIM_0A_bPa0Pxawtuw"
+    },
+    {
+      "id": "ca82",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/810/250/280.jpg?hmac=mkjYZloYFdTMQM3x_jZp3Vx_FwKNki3-8LYRSovPpZM"
+    },
+    {
+      "id": "982b",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/572/250/280.jpg?hmac=H-Scu2oQTLTk_v9Tkgi7CPH_fJ-ihRZZGZ6plAwfUIQ"
+    },
+    {
+      "id": "488d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/162/250/280.jpg?hmac=W5hpr9SLMpZFKnWMLAUSo2yMeJb5D4j8jjA_OxavIN0"
+    },
+    {
+      "id": "e334",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 32,
+      "text": "What he has seen and heard, of that he testifies; and no one receives his witness.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/1067/250/280.jpg?hmac=P8penSPw1mLsMZbPtlp257rLpidCRtVY9H8L_tLosMI"
+    },
+    {
+      "id": "100c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loves the Son, and has given all things into his hand.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/1018/250/280.jpg?hmac=05HZQ9KuTe7xTNTppU7q0Eso5yESyR-QefXwGA4S0eo"
+    },
+    {
+      "id": "710c",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/309/250/280.jpg?hmac=TSnxp6yewa_4kj1Vqt2iSPKeexK-gbE_LR0RYbutIVE"
+    },
+    {
+      "id": "3c97",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered him,\n“Most certainly, I tell you, unless one is born anew,\n\nhe can’t see God’s Kingdom.”\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/67/250/280.jpg?hmac=WA2m6r6EyfjhX1fd1eRuuqDZRH8_GtqM-fD3FxgK1Y4"
+    },
+    {
+      "id": "0d07",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 7,
+      "text": "\nDon’t marvel that I said to you, ‘You must be born anew.’\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/20/250/280.jpg?hmac=FXoGZ53vz5I4uxZk1-dvN_IUo8Z8zQJ0SVg2YTXqATI"
+    },
+    {
+      "id": "6b81",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 11,
+      "text": "\nMost certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/684/250/280.jpg?hmac=mVYVuns29xQA3_Yi8iUBC_j_XEdVqoRNjn7RuZOfDPc"
+    },
+    {
+      "id": "e172",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/574/250/280.jpg?hmac=nHKBcGJk-hA89dQaKcPHnCwFxbtoBK6aF1Hdjo9_pAI"
+    },
+    {
+      "id": "e2e4",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/379/250/280.jpg?hmac=CB4JWrXSSp4JYaTwnM6l5vt6__F9If7JgbwmWkChKpc"
+    }
+  ]
 }

@@ -77,4 +77,6 @@ Features of my MVP 🎟️
 - have place holders on the web
 - reduce loading time
 
-[pitch video]()
+![alt text](bibleProject.png)
+![alt text](<bibleProject 2.png>)
+[pitch video](https://drive.google.com/file/d/15UPQSgU58kL1cyQ1peoXgzSDXbonFwwd/view?usp=drive_link)
