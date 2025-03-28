@@ -10,7 +10,7 @@ Delivered:
 Project Name 💌
 Bible Verse Image Generaor - Single Page Application (SPA)
 
-The user was able to [achieved only the ticked items]
+The user is able to:-
 
 1. Display a verse they like by clicking on it ✅
 2. Like a verse ✅
@@ -24,6 +24,7 @@ The user was able to [achieved only the ticked items]
 10. Have the option of changing the outline of the picture/format the picture to download✖️
 11. Read through Bible verses (<<go next>>)✖️
 12. Leave feedback ✖️
+    [achieved only the ticked items]
 
 Incorporated the Pillars of dynamic web programming
 
