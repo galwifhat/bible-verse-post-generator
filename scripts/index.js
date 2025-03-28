@@ -128,7 +128,24 @@ function displayBibleVerses(updatedData) {
   //create like button
   const likeBtn = document.createElement("button");
   likeBtn.classList.add("like-btn");
-  likeBtn.textContent = `❤️`;
+  likeBtn.textContent = `❤️ ${updatedData.currentLikes || 0}`;
+  likeBtn.addEventListener("click", function () {
+    let newLikes = (updatedData.currentLikes || 0) + 1;
+    likeBtn.textContent = `❤️ ${newLikes}`;
+
+    // Send PATCH request to update likes in JSON server
+    fetch(`http://localhost:3002/bibleData/${updatedData.id}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ currentLikes: newLikes }),
+    })
+      .then((response) => response.json())
+      .then((updatedLikes) => {
+        console.log("Updated Likes:", updatedVerse);
+        updatedData.currentLikes = updatedLikes.currentLikes; // Update local variable
+      })
+      .catch((err) => console.error("Like update error:", err));
+  });
 
   //create bookmark button
   const bookmarkBtn = document.createElement("button");

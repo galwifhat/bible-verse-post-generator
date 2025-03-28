@@ -161,12 +161,12 @@ nav {
 .bookmark-btn {
   position: absolute;
   top: 10px;
-  right: 50px;
+  right: 10px;
 }
 .like-btn {
   position: absolute;
   top: 10px;
-  right: 10px;
+  right: 50px;
 }
 .share-btn {
   background-color: rgb(14, 95, 95);
