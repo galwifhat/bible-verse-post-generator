@@ -1,37 +1,3 @@
 {
-  "bibleData": [
-    {
-      "id": "9cf0",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 14,
-      "text": "\nAs Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,\n\n",
-      "currentLikes": 0,
-      "currentBookMarks": 0,
-      "imageurl": "https://fastly.picsum.photos/id/155/250/280.jpg?hmac=m0dOarRedFn4aWHsYV-zMPcdff7si_wzri-EFjkXeqE"
-    },
-    {
-      "id": "87be",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 6,
-      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n",
-      "currentLikes": 0,
-      "currentBookMarks": 0,
-      "imageurl": "https://fastly.picsum.photos/id/857/250/280.jpg?hmac=xZZYa1kRvEpfzQa9Czu1v1dRtgw2XLe5_m0v_80Osfw"
-    },
-    {
-      "id": "ceb6",
-      "book_id": "JHN",
-      "book_name": "John",
-      "chapter": 3,
-      "verse": 6,
-      "text": "\nThat which is born of the flesh is flesh. That which is born of the Spirit is spirit.\n\n",
-      "currentLikes": 0,
-      "currentBookMarks": 0,
-      "imageurl": "https://fastly.picsum.photos/id/609/250/280.jpg?hmac=oDBp0uj4jeTumd5EBJ95VOKK7sTSEVeT86GYVhaVq1g"
-    }
-  ]
+  "bibleData": []
 }

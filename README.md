@@ -49,21 +49,24 @@ Tools 💻
 
 Features of my MVP 🎟️
 
-- GET bible data from an API and get access to it
-- Create a list items for them
-- STRINGYFY the data
-- add an event listener when a list item is clicked
-- then PARSE the data
-- POST data to the db.json
-- GET the url data
-- PATCH the data to db.json
-- Pass a function that creates a verse-card dynamically using
+- Develop my front end using HTML and CSS
+- On Javascript
+
+* GET bible data from an API and get access to it
+* Create a list items for them
+* STRINGYFY the data
+* add an event listener when a list item is clicked
+* then PARSE the data
+* POST data to the db.json
+* GET the url data
+* PATCH the data to db.json
+* Pass a function that creates a verse-card dynamically using
   {add.eventListener(s),
   createElement(s),  
   varibles,
   objects,
   and statemnets }
-- Finally displaying the verse-cards once a list item is clicked.
+* Finally display the verse-cards once a list item is clicked.
 
 🔯To work on 🔯
 
