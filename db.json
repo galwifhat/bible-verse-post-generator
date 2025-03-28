@@ -384,6 +384,116 @@
       "currentLikes": 0,
       "currentBookMarks": 0,
       "imageurl": "https://fastly.picsum.photos/id/260/250/280.jpg?hmac=uhNMsaEjC4CkwiO5ZrNenoyjSY0DPrllE1f18QYUjPY"
+    },
+    {
+      "id": "1189",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/853/250/280.jpg?hmac=vWLXuCtO8aIQOCBG7T9f9NfJl6-HFAEe5WCvPYt2NNg"
+    },
+    {
+      "id": "5b06",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/542/250/280.jpg?hmac=3f1tBSGUKAMYyWJtB_far2UGKGIjktVZqbl7XEdDjgg"
+    },
+    {
+      "id": "28d0",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/983/250/280.jpg?hmac=pPwuwvXe7i1BS5GGgUG9Awues5MDr95c4LFnDBQZ_oM"
+    },
+    {
+      "id": "8a67",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 28,
+      "text": "You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/116/250/280.jpg?hmac=MvAokZgg3ucGRZ-_q7UAcJK_sjG6KiAvMa5hxNo8Klk"
+    },
+    {
+      "id": "00ff",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet thrown into prison.\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/588/250/280.jpg?hmac=jbV-Q0fut4nIgDB942ijUNTm-yUmlrZFwq7kSbVGgRg"
+    },
+    {
+      "id": "cd1d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 19,
+      "text": "\nThis is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/326/250/280.jpg?hmac=q3pGf7y-D-yXlpn5e7jAUnHcQ-eE1lG2tzsLzkPScGA"
+    },
+    {
+      "id": "c236",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/681/250/280.jpg?hmac=eK1HojW4VGCf2E9aSCvA33EKCsDuCg1H47bd0Bsb4Jk"
+    },
+    {
+      "id": "ced2",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 17,
+      "text": "\nFor God didn’t send his Son into the world to judge the world, but that the world should be saved through him.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/1013/250/280.jpg?hmac=KN317yBxKX4_8WUPrpWTF6s7tkINzULFKn748jWHB1I"
+    },
+    {
+      "id": "39dc",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 18,
+      "text": "\nHe who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/123/250/280.jpg?hmac=t1OBxdWBqtIaeHue_Pp57RrUZlCiy1jCiO_SembbDtk"
+    },
+    {
+      "id": "f21d",
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 3,
+      "verse": 20,
+      "text": "\nFor everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.\n\n",
+      "currentLikes": 0,
+      "currentBookMarks": 0,
+      "imageurl": "https://fastly.picsum.photos/id/806/250/280.jpg?hmac=Gg4hZM_5ax8SSaqDMXyhkYrrAeXLs0tH6-9O7bVfvMU"
     }
   ]
 }
